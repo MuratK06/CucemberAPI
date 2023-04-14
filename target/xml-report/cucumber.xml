@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.2">
+    <testcase classname="It is used to list all the countries registered in the database." name="Success Response" time="5.967">
+        <system-out>
+            <![CDATA[Given Api kullanicisi "api/profile/allCountries" path parametreleri set eder.passed
+Then AllCountries icin Get request gonderilir...............................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
